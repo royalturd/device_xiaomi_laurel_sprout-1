@@ -18,7 +18,7 @@ DEVICE_PATH := device/xiaomi/laurel_sprout
 
 # SHRP
 SHRP_PATH := device/xiaomi/laurel_sprout
-SHRP_MAINTAINER := oddlyspaced
+SHRP_MAINTAINER := Royal_Turd
 SHRP_DEVICE_CODE := laurel_sprout
 SHRP_EDL_MODE := 1
 SHRP_EXTERNAL := /sdcard1
@@ -32,7 +32,6 @@ SHRP_STATUSBAR_RIGHT_PADDING := 40
 SHRP_STATUSBAR_LEFT_PADDING := 40
 SHRP_DARK := true
 SHRP_EXPRESS := true
-SHRP_OFFICIAL := true
 
 # Architecture
 TARGET_ARCH := arm64
